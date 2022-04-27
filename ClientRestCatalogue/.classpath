@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/aopalliance-repackaged-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/hk2-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/hk2-locator-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/hk2-utils-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.annotation-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.inject-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.json.bind-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.json-2.0.0-module.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.json-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.persistence-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.servlet-api-5.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.validation-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.ws.rs-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.ws.rs-api-3.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.25.0-GA.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-hk2.jar" sourcepath="lib/jersey-hk2.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-media-json-binding.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-media-sse.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="lib/org.osgi.core-6.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/osgi-resource-locator-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/yasson-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/activation-1.1.jar" sourcepath="lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/com.sun.jersey.jersey-servlet-1.17.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-impl-2.2.3-1.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-client-1.17.jar" sourcepath="C:/Users/houda/Desktop/jersey/jersey-client-1.17.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-core-1.17.1.jar" sourcepath="lib/jersey-core-1.17.1.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-json-1.17.1.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-server-1.17.1.jar" sourcepath="lib/jersey-server-1.17.1.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-server-1.17.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-servlet-1.17.jar"/>
+	<classpathentry kind="lib" path="lib/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/stax-api-1.0-2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
